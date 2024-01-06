@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/spf13/cobra"
+	"https://github.com/spf13/cobra/commit/5414d3d45d41008846e74d0f7768363014f3f5c0"
 )
 
 // versionCmd represents the version command
