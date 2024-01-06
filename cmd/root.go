@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/spf13/cobra"
-	"github.com/spf13/viper"
+	"https://github.com/spf13/cobra/commit/5414d3d45d41008846e74d0f7768363014f3f5c0"
+	"https://github.com/spf13/viper/commit/98c63ede11cfabff4cb153395c1e9d72a39041c6"
 )
 
 var cfgFile string
